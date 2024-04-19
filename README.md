@@ -1,5 +1,4 @@
 # GitHub-Assignment
+CSCI 3323 - Spring 2024 
 GitHubAssignment
-This is Branch1
-Another edit to branch1
-Another edit to branch1
+Mary Kait Heeren
